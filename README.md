@@ -13,6 +13,7 @@ Parts List:
 - https://tinkersphere.com/sensors/1286-analog-triple-axis-accelerometer-breakout -adxl335.html
 - 1x Lithium Ion Polymer Battery
 - https://www.amazon.com/gp/product/B00L0W61VO/
+For the Arduino code, you'll need the BLE_MIDI library: https://github.com/lathoub/Arduino-BLE-MIDI
 
 I never made a schematic, but as long as you know how to wire buttons and switches you should be good. The only other wiring is for the accelerometer, which goes directly from the X and Y pins of the accelerometer to any analog pins on the ESP32.
 
