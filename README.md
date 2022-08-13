@@ -4,7 +4,7 @@ Bluetooth MIDI Glove for the ESP32 with Arduino
 Parts List:
 - Female header sockets (1x20, 1x16, 1x5)
 - 4x 2-pin pushbuttons
-- 4x 3-pin switches
+- 2x 3-pin switches
 - 9x 10kΩ resistors
 - Protoboard (18x24)
 - ESP32 IoT Board with Lipo Port
