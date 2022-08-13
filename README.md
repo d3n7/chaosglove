@@ -1,4 +1,4 @@
-# chaosglove
+# chaos_glove
 MIDI Glove for the ESP32 with Arduino
 
 Parts List:
