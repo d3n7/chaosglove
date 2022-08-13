@@ -9,7 +9,7 @@ Parts List:
 - Female header sockets (1x20, 1x16, 1x5)
 - 4x 2-pin pushbuttons
 - 2x 3-pin switches
-- 9x 10kΩ resistors
+- 6x 10kΩ resistors
 - Protoboard (at least 18x24)
 - ESP32 IoT Board with Lipo Port
 - https://tinkersphere.com/boards/2831-esp32-iot-board-with-lipo-port.html
