@@ -19,7 +19,7 @@ Parts List:
 - 1x Lithium Ion Polymer Battery
 - https://www.amazon.com/gp/product/B00L0W61VO/
 
-(I reccomend breadboarding it first)
+(I recommend breadboarding it first)
 
 For the Arduino code, you'll need the BLE_MIDI library: https://github.com/lathoub/Arduino-BLE-MIDI
 
