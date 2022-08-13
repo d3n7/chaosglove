@@ -1,5 +1,5 @@
 # chaos_glove
-MIDI Glove for the ESP32 with Arduino
+Bluetooth MIDI Glove for the ESP32 with Arduino
 
 Parts List:
 - Female header sockets (1x20, 1x16, 1x5)
