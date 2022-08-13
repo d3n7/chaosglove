@@ -17,4 +17,5 @@ Parts List:
 I never made a schematic, but as long as you know how to wire buttons and switches you should be good. The only other wiring is for the accelerometer, which goes directly from the X and Y pins of the accelerometer to any analog pins on the ESP32.
 
 Here's a pretty picture of it, though:
+
 ![pretty picture](/images/glove.png)
