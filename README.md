@@ -6,7 +6,7 @@ Parts List:
 - 4x 2-pin pushbuttons
 - 2x 3-pin switches
 - 9x 10kΩ resistors
-- Protoboard (18x24)
+- Protoboard (at least 18x24)
 - ESP32 IoT Board with Lipo Port
 - https://tinkersphere.com/boards/2831-esp32-iot-board-with-lipo-port.html
 - ADXL335 (triple-axis accelerometer)
