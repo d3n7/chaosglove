@@ -1,5 +1,9 @@
 # chaos_glove
 Bluetooth MIDI Glove for the ESP32 with Arduino
+Features:
+- Switches for turning on and off accelerometer data
+- 2 buttons for switching MIDI channels
+- 2 buttons for playing notes or turning on and off effects
 
 Parts List:
 - Female header sockets (1x20, 1x16, 1x5)
