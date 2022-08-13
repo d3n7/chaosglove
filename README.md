@@ -20,4 +20,4 @@ I never made a schematic, but as long as you know how to wire buttons and switch
 
 Here's a pretty picture of it, though:
 
-![pretty picture](/images/glove.png)
+![pretty picture](glove.png)
