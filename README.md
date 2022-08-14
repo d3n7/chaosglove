@@ -12,12 +12,9 @@ Parts List:
 - 2x 3-pin switches
 - 6x 10kΩ resistors
 - Protoboard (at least 18x24)
-- ESP32 IoT Board with Lipo Port
-- https://tinkersphere.com/boards/2831-esp32-iot-board-with-lipo-port.html
-- ADXL335 (triple-axis accelerometer)
-- https://tinkersphere.com/sensors/1286-analog-triple-axis-accelerometer-breakout -adxl335.html
-- 1x Lithium Ion Polymer Battery
-- https://www.amazon.com/gp/product/B00L0W61VO/
+- ESP32 IoT Board with Lipo Port https://tinkersphere.com/boards/2831-esp32-iot-board-with-lipo-port.html
+- ADXL335 (triple-axis accelerometer) https://tinkersphere.com/sensors/1286-analog-triple-axis-accelerometer-breakout-adxl335.html
+- 1x Lithium Ion Polymer Battery https://www.amazon.com/gp/product/B00L0W61VO/
 
 (I recommend breadboarding it first)
 
