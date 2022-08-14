@@ -28,3 +28,7 @@ I never made a schematic, but as long as you know how to wire buttons and switch
 Here's a pretty picture of it, though:
 
 ![pretty picture](glove.png)
+
+Here's a video showing how to use the glove. I should note this glove is a slightly different version that includes a light sensor (photocell).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6u06UhuX4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
