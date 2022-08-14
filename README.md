@@ -30,4 +30,5 @@ Here's a pretty picture of it, though:
 ![pretty picture](glove.png)
 
 Here's a video showing how to use the glove: https://www.youtube.com/embed/g6u06UhuX4E
+
 I should note this glove is a slightly different version that includes a light sensor (photocell).
